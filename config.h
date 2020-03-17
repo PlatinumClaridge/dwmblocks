@@ -3,9 +3,9 @@ static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{"", "cat /tmp/recordingicon",	0,	9},
 	{"",	"music",	0,	11},
+	{"",	"mailbox",	180,	12},
 	{"",	"news",		0,	6},
 	/*{"",	"weather",	18000,	5},*/
-	{"",	"mailbox",	180,	12},
 	{"",	"volume",	0,	10},
 	/*{"",	"battery",	5,	0},*/
 	{"",	"clock",	60,	0},
